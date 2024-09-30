@@ -4,4 +4,4 @@
 - [Script engine documentation](https://adrenalinebot.com/en/api/)
 - [Script examples for Adrenaline bot](https://adrenalinebot.com/en/api/examples/)
 
-You also can [order a custon script](https://adrenalinebot.com/en/#order-script) if you need.
+You also can [order a custom script](https://adrenalinebot.com/en/#order-script) if you need.
